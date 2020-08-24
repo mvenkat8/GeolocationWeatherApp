@@ -1,0 +1,55 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin: auto;
+}
+
+body {
+ background-image: url('https://cdn.morguefile.com/imageData/public/files/s/sherrysdigiscraps/07/p/b989d44fb8386869061a5c276c09376d.jpg');
+ background-repeat: no-repeat;
+ background-size: 100%;
+}
+
+h1 {
+  left: 0;
+    line-height: 200px;
+    margin-top: -150px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color:bisque;
+}
+
+h2 {
+  left: 0;
+    line-height: 200px;
+    margin-top: -80px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color: bisque;
+}
+
+p {
+  left: 0;
+    line-height: 200px;
+    margin-top: -50px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color:bisque;
+}
+
+h3 {
+  left: 0;
+    line-height: 200px;
+    margin-top: -200px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+    color:bisque;
+}
